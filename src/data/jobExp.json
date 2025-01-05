@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Dairy and Frozen Department Associate",
+        "company": "Walmart Canada",
+        "location": "Maple, Ontario",
+        "duration": "May 2022 - Present",
+        "description": [
+            "Provide prompt customer service, assist with accessibility issues, ensuring a positive shopping experience.",
+            "Implemented quality control measures by regularly inspecting and removing expired or near-expired items, maintaining high product standards.",
+            "Fostered teamwork in a fast-paced environment, coordinating with colleagues to efficiently restock shelves and maintain product availability.",
+            "Meticulously monitored product freshness, ensuring compliance with food safety standards. Optimized product placement for maximum visibility",
+            "Provided exceptional customer service, addressing inquiries and resolving issues promptly. Assisted customers with special dietary needs, enhancing shopping experience."
+        ]
+    },
+    {
+        "title": "Dishwasher",
+        "company": "Premier Place Banquet Hall",
+        "location": "Maple, Ontario",
+        "duration": "July 2021 - January 2023",
+        "description": [
+            "Collected, washed, dried and organized dishes, glasses, silverware, and other tableware  used by guests and staff.",
+            "Organized and prepared plates for service.",
+            "Supported kitchen staff by assisting with various tasks, fostering a team-oriented environment and contributing to overall operational efficiency.",
+            "Maintained impeccable cleanliness standards in kitchen areas, directly contributing to health and safety compliance and positive customer experiences.",
+            "Embraced additional responsibilities beyond core role, demonstrating adaptability and commitment to personal growth within the food service industry."
+        ]
+    },
+    {
+        "title": "Volunteer",
+        "company": "Father John Kelly Catholic Elementary School",
+        "location": "Maple, Ontario",
+        "duration": "April 2018 - June 2018",
+        "description": [
+            "Worked as a volunteer for the school's Core Resource program.",
+            "Tutored students with disabilities, enhancing their academic performance and fostering an inclusive learning environment.",
+            "Partnered with teachers to develop tailored learning strategies, improving student engagement and comprehension.",
+            "Actively participated in the Core Resource program, contributing to the school's mission of providing quality education for all.",
+            "Mentored students with diverse learning needs, fostering academic growth and inclusivity in the Core Resource program."
+        ]
+    }
+]
