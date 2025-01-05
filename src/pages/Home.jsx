@@ -9,7 +9,7 @@ import {
 function Home() {
 
     return (
-      <Container component="main" justifyContent="center" >
+      <Container component="main">
         <br/>
         <Typography variant="h2" align="center" gutterBottom> Welcome! </Typography>
         <br/>
