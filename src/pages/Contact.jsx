@@ -20,11 +20,16 @@ function Contact() {
           <Grid2 container>
             <Grid2 item="true" my={2} size={4}>
               <Typography align="center" variant="h5"> Email Me </Typography>
-              <Typography align="center" variant="subtitle1"> matteogrutta9000@gmail.com </Typography>
+              <Typography align="center" variant="subtitle1"> 
+                <a href="mailto:matteogrutta9000@gmail.com">matteogrutta9000@gmail.com</a>
+              </Typography>
             </Grid2>
             <Grid2 item="true" my={2} size={4}>
               <Typography align="center" variant="h5"> Call or Text Me </Typography>
-              <Typography align="center" variant="subtitle1"> +1 (416) 949-1229 </Typography>
+              <Typography align="center" variant="subtitle1"> 
+                <a href="tel:416-949-1229">+1 (416) 949-1229</a>
+                 
+              </Typography>
             </Grid2>
             <Grid2 item="true" my={2} size={4}>
               <Typography align="center" variant="h5"> My Social Media </Typography>
