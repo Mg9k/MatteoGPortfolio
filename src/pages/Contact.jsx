@@ -28,7 +28,6 @@ function Contact() {
               <Typography align="center" variant="h5"> Call or Text Me </Typography>
               <Typography align="center" variant="subtitle1"> 
                 <a href="tel:416-949-1229">+1 (416) 949-1229</a>
-                 
               </Typography>
             </Grid2>
             <Grid2 item="true" my={2} size={4}>
