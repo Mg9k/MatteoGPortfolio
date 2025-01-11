@@ -49,7 +49,7 @@ function Resume() {
           )}
         </Grid2>
         <Grid2 container spacing={5}>
-          <Grid2 item="true" my={2} size={7}>
+          <Grid2 item="true" mt={2} size={{xs: 12, sm: 7}}>
             <Typography variant="h4" align="left" gutterBottom> Education: </Typography>
             <Card raised>
               <CardContent>
@@ -67,7 +67,7 @@ function Resume() {
               </CardContent>
             </Card>
           </Grid2>
-          <Grid2 item="true" my={2} size={5}>
+          <Grid2 item="true" mt={{xs: 0, sm: 2}} size={{xs: 12, sm: 5}}>
             <Typography variant="h4" align="left" gutterBottom> Skills: </Typography>
             <Card raised>
               <CardContent>

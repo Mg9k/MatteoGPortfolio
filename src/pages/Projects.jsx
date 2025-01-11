@@ -15,6 +15,26 @@ function Projects() {
           My Projects
         </Typography>
         <Grid2 container columns={1} justifyContent="center">
+        <Grid2 item="true" my={2} size={4}>
+            <Card raised>
+              <CardContent>
+              <Typography variant="h5" align="center" gutterBottom>
+                My Portfolio Website (ReactJS)
+              </Typography>
+              <Typography variant="body1" align="left" gutterBottom>
+                This is the very website you're on right now. 
+                This portfolio was built using React and Vite, featuring Material UI components and Vercel deployment.
+              </Typography>
+              <Typography variant="body1" align="left" gutterBottom>
+                GitHub Repo Link: <a 
+                  href="https://github.com/Mg9k/MatteoGPortfolio"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  > https://github.com/Mg9k/MatteoGPortfolio </a>
+              </Typography>
+              </CardContent>
+            </Card>
+          </Grid2>
           <Grid2 item="true" my={2} size={4}>
             <Card raised>
               <CardContent>
@@ -22,7 +42,6 @@ function Projects() {
                 Customer Order Assembly Line Program (C++)
               </Typography>
               <Typography variant="body1" align="left" gutterBottom>
-                This is a final project for an object-oriented C++ course I took in my program.
                 This program takes customer orders from a text file and fills out the order by putting it through an assembly line.
                 The assembly line is composed of workstations and a line manager, which contains the workstations. 
                 The information for both of the above is pulled from a text file. 
@@ -30,10 +49,10 @@ function Projects() {
               </Typography>
               <Typography variant="body1" align="left" gutterBottom>
                 GitHub Repo Link: <a 
-                  href="https://github.com/Mg9k/AssemblyLineProject"
+                  href="https://github.com/Mg9k/AssemblyLineProjectCPP"
                   target="_blank"
                   rel="noopener noreferrer"
-                  > https://github.com/Mg9k/AssemblyLineProject </a>
+                  > https://github.com/Mg9k/AssemblyLineProjectCPP </a>
               </Typography>
               </CardContent>
             </Card>
