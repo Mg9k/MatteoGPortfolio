@@ -55,7 +55,7 @@ function Resume() {
               <CardContent>
                 <Typography variant="h5" align="left" > Honours Bachelor of Technology - Software Development </Typography>
                 <Typography variant="h6" align="left" > Seneca Polytechnic </Typography>
-                <Typography variant="body1" align="left"> In Progress - Third of Four-Year Program </Typography>
+                <Typography variant="body1" align="left"> In Progress - Fourth of Four-Year Program </Typography>
               </CardContent>
             </Card>
             <br/>
@@ -73,12 +73,13 @@ function Resume() {
               <CardContent>
                 <Typography variant="h5" align="left" gutterBottom> Programming-Related: </Typography>
                 <Typography variant="body1" align="left" gutterBottom> 
-                  C, C++, Python, Javascript, HTML, CSS, ReactJS, MongoDB, SQL, GUI Design, GitHub, Full-Stack 
+                  C / C++, Python, JavaScript, MongoDB, SQL, GitHub, GUI Design, HTML, CSS, React JS, 
+                  React Native, Full-Stack Programming, REST APIs
                 </Typography>
                 <Typography variant="h5" align="left" gutterBottom> General Skills: </Typography>
                 <Typography variant="body1" align="left"> 
-                  Teamwork, Organization, Customer Service, Computer Skills, Working Under Pressure, 
-                  Adaptability, Attention to Detail, Collaboration, Time Management, Project Management
+                  Teamwork, Organization, Customer Service, Computer Skills, Working Under Pressure, Proactivity,
+                  Adaptability, Attention to Detail, Collaboration, Time Management, Project Management, Initiaitve
                 </Typography>
               </CardContent>
             </Card>
