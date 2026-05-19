@@ -73,12 +73,12 @@ function Resume() {
               <CardContent>
                 <Typography variant="h5" align="left" gutterBottom> Programming-Related: </Typography>
                 <Typography variant="body1" align="left" gutterBottom> 
-                  C / C++, Python, JavaScript, MongoDB, SQL, GitHub, GUI Design, HTML, CSS, React JS, 
-                  React Native, Full-Stack Programming, REST APIs
+                  C / C++, Python, Java, JavaScript, TypeScript, MongoDB, SQL, GitHub, GUI Design, HTML, CSS, React JS & TS, 
+                  React Native, Full-Stack Programming, REST APIs, App Testing
                 </Typography>
                 <Typography variant="h5" align="left" gutterBottom> General Skills: </Typography>
                 <Typography variant="body1" align="left"> 
-                  Teamwork, Organization, Customer Service, Computer Skills, Working Under Pressure, Proactivity,
+                  Teamwork, Organization, Customer Service, Computer Skills, Multitasking, Working Under Pressure, Proactivity,
                   Adaptability, Attention to Detail, Collaboration, Time Management, Project Management, Initiaitve
                 </Typography>
               </CardContent>
