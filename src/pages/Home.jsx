@@ -21,7 +21,7 @@ function Home() {
             <Typography variant="h4" align="center" gutterBottom> Hi! I'm Matteo.</Typography>
             <Typography variant="h6" align="center" gutterBottom> 
               I am a computer science student specializing in software development. 
-              I am currently in my third of four years working towards my Bachelor's degree at Seneca Polytechnic. 
+              I am currently in my final year of working towards my Bachelor's degree at Seneca Polytechnic. 
               I have a keen interest in the way computers work and I enjoy expanding my knowledge and skills so I can be better at what I do.
             </Typography>
           </Grid2>            
